@@ -1,7 +1,9 @@
-# AWSIM
- 
+> [!NOTE]
+> AWSIM won the Grand Prize in the Innovation Award category of the Industry at the 17th Unity Awards. Click [here](https://unity.com/blog/17th-unity-awards-wrap-up-2025-winners-revealed) for more details.
+
 ![](/README_img/AWSIM-Autoware.png)
 
+    
 AWSIM is the best digital twin simulator for [Autoware](https://github.com/autowarefoundation/autoware).
 
 ## Features
